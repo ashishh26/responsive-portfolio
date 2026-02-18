@@ -19,4 +19,5 @@ This project is part of my Frontend Development learning journey.
 
 ## Live Demo
 
-(Will be added after GitHub Pages deployment)
+Live Demo:
+https://ashishh26.github.io/responsive-portfolio/
